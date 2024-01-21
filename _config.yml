@@ -20,7 +20,7 @@ timezone: Asia/Shanghai
 
 title: 鱼一                          # the main title
 
-tagline: 从什么都没有到一空不留   # it will display as the sub-title
+tagline: 总得写点什么吧   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
